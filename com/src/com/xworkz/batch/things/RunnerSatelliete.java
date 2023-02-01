@@ -1,4 +1,4 @@
-package com.xwrkz.batch.tuesday;
+package com.xworkz.batch.things;
 
 public class RunnerSatelliete {
 	public static void main(String[] args)

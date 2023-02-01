@@ -1,4 +1,4 @@
-package com.xwrkz.batch.tuesday;
+package com.xworkz.batch.things;
 
 import com.xwrkz.boot.monday.Fan;
 
